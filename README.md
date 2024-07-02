@@ -55,6 +55,6 @@ The project is minimized for better understanding.
 
 ## To get Internship
 
-You can check out other details in our website to register internship [REgister Now](https://www.zrock.in/internship).
+You can check out other details in our website to register internship [Register Now](https://www.zrock.in/internship).
 
 
